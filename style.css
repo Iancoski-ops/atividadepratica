@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    text-align: center;
+}
+
+h1.titulo{
+    font-family: sans-serif;
+}
+
+.lista{
+    list-style-type: none;
+}
+
+a.estilo1{
+    text-decoration: none;
+    padding: 5px;
+    border: dashed 2px;
+    border-radius: 150px 150px;
+    border-color: black;
+    font-family: Calibri;
+    font-size: large;
+    color: black;
+}
+
+a.estilo1:hover{
+    background-color:grey;
+    color: white;
+}
+
+a.estilo2{
+    background-color: blue;
+    color: white;
+}
+
+.forms{
+    text-align: left;
+}
+
+.just{
+    text-align: justify;
+}
